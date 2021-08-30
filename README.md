@@ -7,5 +7,6 @@ Note that this will be a bit different from VimScript, as all of these programs 
 * Input/Output is done through reading/writing to/from the open buffer.
 * We aren't creating any functions, only using functions that already exist. Instead, we will use macros.
 * We won't use variables, or data structures like arrays or dictionaries. Data will be stored only as text, either in registers or in the buffer.
+* There's probably other differences, but I don't feel like thinking of them.
 
 You can try any of these programs yourself by opening Vim, then copy/pasting the program in to have it execute each command one after another.
